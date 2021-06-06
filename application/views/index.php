@@ -9,14 +9,17 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="<?= base_url() ?>assets/css/bootstrap.min.css">
 
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="<?= base_url() ?>assets/css/custom.css">
+    <!-- Fontawesome -->
+    <link rel="stylesheet" href="<?= base_url() ?>assets/vendor/fontawesome/css/all.css">
 
     <!-- Datatables -->
     <link rel="stylesheet" href="<?= base_url() ?>assets/vendor/datatables/datatables.min.css">
 
     <!-- Overhang -->
     <link rel="stylesheet" href="<?= base_url() ?>assets/vendor/overhang/overhang.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="<?= base_url() ?>assets/css/custom.css">
 
     <!-- Jquery -->
     <script src="<?= base_url() ?>assets/js/jquery-3.6.0.min.js"></script>
